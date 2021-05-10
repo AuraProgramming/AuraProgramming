@@ -32,4 +32,4 @@ with MD5 Hashes in the below link:
 - Real Time Protection (BETA) Blocks Malicious Websites
 
 
-[![Image](https://img.shields.io/badge/Download-V0.5-success?style=for-the-badge)](https://github.com/AuraProgramming/AuraGuardOS/archive/refs/tags/BETA0.5.zip)
+[![Image](https://img.shields.io/badge/Download-V0.5%20BETA-success?style=for-the-badge)](https://github.com/AuraProgramming/AuraGuardOS/archive/refs/tags/BETA0.5.zip)
