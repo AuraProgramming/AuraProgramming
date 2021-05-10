@@ -1,4 +1,4 @@
-# Hi There!  I am Aura.  Here are some of my Projects!
+# Hi There!  Here are some of my Projects!
 ## AuraGuard
 ### A Pretty Trash AntiVirus ##
 AuraGuard is a Microsoft Batch file Anti-virus software
