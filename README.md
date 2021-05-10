@@ -1,4 +1,15 @@
-# Hi There!  Here are some of my Projects!
+# Stats
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=AuraProgramming&hide=prs,contribs&count_private=true&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuraProgramming&layout=compact&theme=dark)
+
+📧 Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`AuraDMLProgramming@gmail.com`<br>
+📞 Discord: &nbsp;&nbsp;&nbsp;`AstralAura#6874`<br>
+🎮 Minecraft: `N073p1cg4m3r`
+
+# Here are some of my Projects!
+
 ## AuraGuard
 
 ### A Pretty Trash AntiVirus ##
