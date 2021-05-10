@@ -32,10 +32,4 @@ with MD5 Hashes in the below link:
 - Real Time Protection (BETA) Blocks Malicious Websites
 
 
-
-## BatchEditor
-An extremely simple Batch-File Editor
-
-This may require ADMIN Privilages
-
-### Download Now! ##
+![### Download Now! ##](https://github.com/AuraProgramming/AuraGuardOS/archive/refs/tags/BETA0.5.zip)
