@@ -1,6 +1,6 @@
 # Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=AuraProgramming&hide=prs,contribs&count_private=true&show_icons=true&theme=dark)
+![My Stats](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuraProgramming))
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuraProgramming&layout=compact&theme=dark)
 
