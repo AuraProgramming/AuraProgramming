@@ -28,7 +28,7 @@ with MD5 Hashes in the below link:
 - Folder Scanner to scan suspicious file names in folders
 - Executable File Cleanup which will delete all executable files
 - Temp Directory Scrub which deletes all files in Temp Directory
-- Power DNS Flush which releases and refetches your IP Address, and then infinitly DNS flushes
+- Power DNS Flush which releases and refetches your IP Address, and then infinitely DNS flushes
 - Real Time Protection (BETA) Blocks Malicious Websites
 
 
