@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuraProgramming&theme=dark&show_icons=true)
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=AuraProgramming&theme=dark&show_icons=true)
 
 📧 Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`AuraDMLProgramming@gmail.com`<br>
 📞 Discord: &nbsp;&nbsp;&nbsp;`AstralAura#6874`<br>
