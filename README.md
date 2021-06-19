@@ -25,11 +25,8 @@ with MD5 Hashes in the below link:
 
 ### Current Features ##
 - File Scanner to scan a file against 40,000 MD5 Hashes
-- Folder Scanner to scan suspicious file names in folders
+- Folder Scanner to scan multiple files in a folder
 - Executable File Cleanup which will delete all executable files
 - Temp Directory Scrub which deletes all files in Temp Directory
 - Power DNS Flush which releases and refetches your IP Address, and then infinitely DNS flushes
 - Real Time Protection (BETA) Blocks Malicious Websites
-
-
-[![Image](https://img.shields.io/badge/Download-V0.5%20BETA-success?style=for-the-badge)](https://github.com/AuraProgramming/AuraGuardOS/archive/refs/tags/BETA0.5.zip)
